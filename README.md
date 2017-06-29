@@ -1,14 +1,17 @@
-# calibration
+# CameraCalibration_OpenCV
 
-Desarrollado como complemento al Trabajo de Fin de Grado:
+Associated software to Bachelor's Degree Final Project in Industrial Technologies Engineering, by Universidad de Zaragoza.
 
-  "Evaluación de ORBSLAM en Secuencias de Endoscopia Médica"
-  
-  
-How to:
+Project title: "ORBSLAM Performance Evaluation in Medical Endoscope Sequences"
 
-1- Place images inside inputFrames folder.
+Input: minimum of 6 frames from a calibration pattern (chess pattern).
 
-2- Click Calibration.desktop to run software.
+Output: camera matrix and distortion coefficients.
 
-Only for chessboard calibration patterns.
+HowTo:
+
+ 1 - Place at least 6 pictures within "inputFrames" folder.
+ 
+ 2 - Execute "Calibration.desktop" to run.
+ 
+ 3 - Follow the instructions in the opened console.
