@@ -11,8 +11,22 @@ Output: camera matrix and distortion coefficients.
 
 HowTo:
 
- 1 - Place a minimum of 6 pictures within folder "inputFrames". A set of image examples is provided.
+ 1 - Clone and compile:
+
+    git clone https://github.com/icirauqui/OCV_CameraCalibration.git OCV_CameraCalibration
+    
+    cd OCV_CameraCalibration
+    mkdir build
+    cd build
+    cmake ..
+    make
+
+ 2 - Usage:
  
- 2 - run '.calibration'. 
+   Place a minimum of 6 pictures within folder "inputFrames" (an example set is provided).
  
- 3 - Follow the instructions in the console.
+   Run the program: 
+   
+    .calibration
+ 
+   Follow the instructions in the console.
