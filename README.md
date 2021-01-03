@@ -1,8 +1,10 @@
-# CameraCalibration_OpenCV
+# OCV_CameraCalibration
 
-Associated software to Bachelor's Degree Final Project in Industrial Technologies Engineering, by Universidad de Zaragoza.
+Calibration of cameras via Chessboard pattern images.
 
-Project title: "ORBSLAM Performance Evaluation in Medical Endoscope Sequences"
+Created for Bachelor's Degree Final Project in Industrial Technologies Engineering, at Universidad de Zaragoza, of title "ORBSLAM Performance Evaluation in Medical Endoscope Sequences".
+
+Enhanced for Bachelor's Degree Final Project in Mechanical Engineering, at Universidad de Zaragoza, of title "".
 
 Input: minimum of 6 frames from a calibration pattern (chess pattern).
 
@@ -10,8 +12,8 @@ Output: camera matrix and distortion coefficients.
 
 HowTo:
 
- 1 - Place at least 6 pictures within "inputFrames" folder.
+ 1 - Place a minimum of 6 pictures within folder "inputFrames".
  
- 2 - Execute "Calibration.desktop" to run.
+ 2 - Run "Calibration.desktop".
  
- 3 - Follow the instructions in the opened console.
+ 3 - Follow the instructions in the console.
