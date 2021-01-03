@@ -2,7 +2,7 @@
 /**
  *  Project     : Calibration
  *  Author      : Iñigo Cirauqui Viloria
- *  Version     : v1.0
+ *  Version     : v2.0
  *  Copyright   : Your copyright notice
  *  Description : Get Camera matrix and distortion coefficients from image sequence.
  *  ===========================================================================================
