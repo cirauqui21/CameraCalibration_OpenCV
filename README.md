@@ -10,6 +10,9 @@ Input: minimum of 6 frames from a calibration pattern (chessboard).
 Output: camera matrix and distortion coefficients.
 
 HowTo:
+
  1 - Place a minimum of 6 pictures within folder "inputFrames". A set of image examples is provided.
+ 
  2 - run '.calibration'. 
+ 
  3 - Follow the instructions in the console.
