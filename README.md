@@ -29,4 +29,4 @@ HowTo:
    
     .calibration
  
-   Follow the instructions in the console.
+   Follow the instructions in the terminal.
